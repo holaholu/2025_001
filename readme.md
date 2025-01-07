@@ -2,8 +2,8 @@
 
 Follow Me on GitHub
 
-/\* Javascript
+```Javascript
 
 console.log("Happy New Year");
 
-\*/
+```
